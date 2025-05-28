@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/jest": "25.2.1",
-    "@types/long": "4.0.0",
+    "@types/long": "4.0.2",
     "long": "^4.0.0"
   },
   "devDependencies": {

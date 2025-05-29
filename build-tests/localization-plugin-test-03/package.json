@@ -8,7 +8,7 @@
     "serve": "node serve.js"
   },
   "dependencies": {
-    "@microsoft/rush-stack-compiler-3.9": "~0.4.47",
+    "@microsoft/rush-stack-compiler-3.9": "~0.6.0",
     "@rushstack/localization-plugin": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/set-webpack-public-path-plugin": "workspace:*",

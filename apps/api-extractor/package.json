@@ -40,7 +40,7 @@
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/ts-command-line": "workspace:*",
-    "colors": "~1.2.1",
+    "colors": "~1.4.0",
     "lodash": "~4.17.15",
     "resolve": "~1.17.0",
     "semver": "~7.3.0",

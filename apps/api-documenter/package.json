@@ -15,7 +15,7 @@
   "typings": "dist/rollup.d.ts",
   "dependencies": {
     "@microsoft/tsdoc": "0.13.2",
-    "colors": "~1.2.1",
+    "colors": "~1.4.0",
     "js-yaml": "~3.13.1",
     "resolve": "~1.17.0"
   },

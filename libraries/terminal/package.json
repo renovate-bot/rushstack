@@ -22,6 +22,6 @@
     "@rushstack/heft-node-rig": "workspace:*",
     "@types/heft-jest": "1.0.1",
     "@types/wordwrap": "~1.0.0",
-    "colors": "~1.2.1"
+    "colors": "~1.4.0"
   }
 }

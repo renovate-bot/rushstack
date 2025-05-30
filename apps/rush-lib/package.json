@@ -36,7 +36,7 @@
     "glob": "~7.0.5",
     "glob-escape": "~0.0.2",
     "https-proxy-agent": "~5.0.0",
-    "ignore": "~5.1.6",
+    "ignore": "~5.3.0",
     "inquirer": "~7.3.3",
     "js-yaml": "~3.13.1",
     "jszip": "~3.7.1",

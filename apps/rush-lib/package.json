@@ -44,7 +44,7 @@
     "minimatch": "~3.0.2",
     "node-fetch": "2.6.2",
     "npm-package-arg": "~6.1.0",
-    "npm-packlist": "~2.1.2",
+    "npm-packlist": "~10.0.0",
     "read-package-tree": "~5.1.5",
     "resolve": "~1.17.0",
     "semver": "~7.3.0",

@@ -52,7 +52,7 @@
     "strict-uri-encode": "~2.0.0",
     "tar": "~5.0.5",
     "true-case-path": "~2.2.1",
-    "z-schema": "~3.18.3"
+    "z-schema": "~6.0.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",

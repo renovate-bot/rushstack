@@ -18,17 +18,17 @@
     "@rushstack/heft": "^0.41.7"
   },
   "dependencies": {
-    "@jest/core": "~25.4.0",
-    "@jest/reporters": "~25.4.0",
-    "@jest/transform": "~25.4.0",
+    "@jest/core": "~30.2.0",
+    "@jest/reporters": "~30.2.0",
+    "@jest/transform": "~30.2.0",
     "@rushstack/heft-config-file": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
-    "jest-config": "~25.4.0",
-    "jest-snapshot": "~25.4.0",
+    "jest-config": "~30.2.0",
+    "jest-snapshot": "~30.2.0",
     "lodash": "~4.17.15"
   },
   "devDependencies": {
-    "@jest/types": "~25.4.0",
+    "@jest/types": "~30.2.0",
     "@microsoft/api-extractor": "workspace:*",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft": "workspace:*",
@@ -36,7 +36,7 @@
     "@types/lodash": "4.14.116",
     "@types/node": "12.20.24",
     "eslint": "~7.30.0",
-    "jest-environment-node": "~25.4.0",
+    "jest-environment-node": "~30.2.0",
     "typescript": "~4.4.2"
   }
 }

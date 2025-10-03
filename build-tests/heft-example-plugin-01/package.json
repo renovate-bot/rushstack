@@ -10,13 +10,13 @@
     "start": "heft start"
   },
   "dependencies": {
-    "tapable": "1.1.3"
+    "tapable": "2.3.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@types/node": "12.20.24",
-    "@types/tapable": "1.0.6",
+    "@types/tapable": "2.3.0",
     "eslint": "~7.30.0",
     "typescript": "~4.4.2"
   }

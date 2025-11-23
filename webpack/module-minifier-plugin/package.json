@@ -17,7 +17,7 @@
   },
   "peerDependencies": {
     "@types/webpack": "*",
-    "webpack": "^4.31.0",
+    "webpack": "^4.31.0 || ^5.0.0",
     "webpack-sources": "~1.4.3"
   },
   "peerDependenciesMeta": {
@@ -37,9 +37,9 @@
     "@rushstack/heft": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
     "@types/heft-jest": "1.0.1",
-    "@types/webpack": "4.41.24",
+    "@types/webpack": "5.28.5",
     "@types/webpack-sources": "1.4.2",
-    "webpack": "~4.44.2",
+    "webpack": "~5.103.0",
     "webpack-sources": "~1.4.3"
   },
   "sideEffects": [
